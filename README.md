@@ -24,7 +24,13 @@ This solution helps manufacturing companies improve product quality, reduce unex
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **Streamlit App:** https://manufacturing-quality-control-predictive-maintenance-rrtdrmyev.streamlit.app/
+---
+
 # 🎯 Business Problem
+
 
 Unexpected machine failures can lead to:
 
