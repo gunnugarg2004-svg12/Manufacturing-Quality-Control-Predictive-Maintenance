@@ -1,0 +1,31 @@
+line_id,factory_id,line_name,line_type,daily_capacity_units,shift_pattern,line_status
+LIN001,FAC001,Heat Treatment Line 01,Heat Treatment,1530,3 Shift,Active
+LIN002,FAC001,Heat Treatment Line 02,Heat Treatment,3555,Continuous,Active
+LIN003,FAC001,Packaging Line 03,Packaging,1894,2 Shift,Active
+LIN004,FAC002,Molding Line 04,Molding,2373,2 Shift,Active
+LIN005,FAC002,Machining Line 05,Machining,3972,Continuous,Active
+LIN006,FAC002,Molding Line 06,Molding,2388,3 Shift,Active
+LIN007,FAC003,Heat Treatment Line 07,Heat Treatment,2899,Continuous,Standby
+LIN008,FAC003,Machining Line 08,Machining,2242,Continuous,Standby
+LIN009,FAC003,Heat Treatment Line 09,Heat Treatment,2648,3 Shift,Standby
+LIN010,FAC004,Grinding Line 10,Grinding,2462,Continuous,Active
+LIN011,FAC004,Grinding Line 11,Grinding,1419,2 Shift,Active
+LIN012,FAC004,Packaging Line 12,Packaging,2643,Continuous,Active
+LIN013,FAC005,Packaging Line 13,Packaging,3048,3 Shift,Standby
+LIN014,FAC005,Assembly Line 14,Assembly,2474,2 Shift,Active
+LIN015,FAC005,Packaging Line 15,Packaging,3370,3 Shift,Standby
+LIN016,FAC006,Packaging Line 16,Packaging,2734,3 Shift,Standby
+LIN017,FAC006,Packaging Line 17,Packaging,1760,Continuous,Standby
+LIN018,FAC006,Heat Treatment Line 18,Heat Treatment,2273,2 Shift,Active
+LIN019,FAC007,Molding Line 19,Molding,537,2 Shift,Active
+LIN020,FAC007,Packaging Line 20,Packaging,2946,3 Shift,Standby
+LIN021,FAC007,Molding Line 21,Molding,1318,3 Shift,Standby
+LIN022,FAC008,Heat Treatment Line 22,Heat Treatment,2594,3 Shift,Standby
+LIN023,FAC008,Grinding Line 23,Grinding,3219,2 Shift,Active
+LIN024,FAC008,Molding Line 24,Molding,2374,2 Shift,Standby
+LIN025,FAC009,Packaging Line 25,Packaging,3434,Continuous,Active
+LIN026,FAC009,Heat Treatment Line 26,Heat Treatment,1249,3 Shift,Standby
+LIN027,FAC009,Machining Line 27,Machining,3156,3 Shift,Standby
+LIN028,FAC010,Molding Line 28,Molding,895,2 Shift,Standby
+LIN029,FAC010,Assembly Line 29,Assembly,2340,2 Shift,Active
+LIN030,FAC010,Machining Line 30,Machining,2348,Continuous,Active

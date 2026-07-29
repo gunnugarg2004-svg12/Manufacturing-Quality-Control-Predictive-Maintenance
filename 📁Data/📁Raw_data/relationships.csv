@@ -1,0 +1,11 @@
+foreign_key,primary_key,relationship_type
+production_lines.factory_id,factories.factory_id,Many-to-one
+machines.line_id,production_lines.line_id,Many-to-one
+products.supplier_id,suppliers.supplier_id,Many-to-one
+operators.factory_id,factories.factory_id,Many-to-one
+production_batches.machine_id,machines.machine_id,Many-to-one
+production_batches.product_id,products.product_id,Many-to-one
+sensor_readings.linked_failure_event_id,failure_events.failure_event_id,Optional many-to-one
+maintenance_work_orders.linked_failure_event_id,failure_events.failure_event_id,Optional many-to-one
+quality_inspections.batch_id,production_batches.batch_id,Many-to-one
+downtime_events.linked_work_order_id,maintenance_work_orders.work_order_id,Many-to-one

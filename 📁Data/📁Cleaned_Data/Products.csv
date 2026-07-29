@@ -1,0 +1,151 @@
+product_id,supplier_id,product_name,product_category,material,process_complexity,target_cycle_time_minutes,standard_unit_cost_inr,dimensional_tolerance_mm,quality_grade
+PRD0001,SUP0143,Packaging Unit 001,Packaging Unit,ABS Plastic,Medium,4.24,5072.36,0.424,A
+PRD0002,SUP0183,Electrical Component 002,Electrical Component,Steel,High,4.36,5589.11,0.246,C
+PRD0003,SUP0011,Automotive Part 003,Automotive Part,Aluminium,Low,7.03,849.1,0.278,A
+PRD0004,SUP0073,Automotive Part 004,Automotive Part,Composite,Low,5.58,2074.65,0.13,A
+PRD0005,SUP0166,Plastic Component 005,Plastic Component,ABS Plastic,Medium,6.03,4581.27,0.398,A
+PRD0006,SUP0088,Electrical Component 006,Electrical Component,Stainless Steel,High,2.91,1315.55,0.085,B
+PRD0007,SUP0078,Mechanical Part 007,Mechanical Part,Composite,Medium,5.26,3241.31,0.349,B
+PRD0008,SUP0198,Electrical Component 008,Electrical Component,Stainless Steel,Medium,7.55,3942.03,0.088,B
+PRD0009,SUP0056,Packaging Unit 009,Packaging Unit,Stainless Steel,Low,3.94,6341.09,0.191,B
+PRD0010,SUP0035,Automotive Part 010,Automotive Part,Composite,High,3.53,1932.92,0.217,A
+PRD0011,SUP0200,Plastic Component 011,Plastic Component,Composite,High,1.59,4246.64,0.102,A
+PRD0012,SUP0191,Mechanical Part 012,Mechanical Part,Stainless Steel,High,5.52,3841.64,0.125,A
+PRD0013,SUP0182,Automotive Part 013,Automotive Part,Aluminium,Low,3.04,683.27,0.176,C
+PRD0014,SUP0083,Automotive Part 014,Automotive Part,Copper,Low,7.27,4435.08,0.26,A
+PRD0015,SUP0154,Packaging Unit 015,Packaging Unit,Composite,Medium,8.24,2372.5,0.395,C
+PRD0016,SUP0177,Automotive Part 016,Automotive Part,Steel,Low,5.17,5840.85,0.428,C
+PRD0017,SUP0166,Mechanical Part 017,Mechanical Part,Composite,Medium,2.5,4089.35,0.436,B
+PRD0018,SUP0091,Mechanical Part 018,Mechanical Part,ABS Plastic,High,3.12,2568.11,0.151,A
+PRD0019,SUP0048,Mechanical Part 019,Mechanical Part,Aluminium,High,6.18,2152.27,0.213,A
+PRD0020,SUP0076,Mechanical Part 020,Mechanical Part,ABS Plastic,Low,7.74,3263.91,0.064,C
+PRD0021,SUP0089,Electrical Component 021,Electrical Component,Stainless Steel,Low,6.83,755.73,0.271,C
+PRD0022,SUP0149,Packaging Unit 022,Packaging Unit,Aluminium,Low,5.6,2876.47,0.054,A
+PRD0023,SUP0110,Automotive Part 023,Automotive Part,Stainless Steel,Medium,4.79,2442.6,0.324,C
+PRD0024,SUP0198,Automotive Part 024,Automotive Part,Copper,Medium,6.59,1372.43,0.29,A
+PRD0025,SUP0074,Automotive Part 025,Automotive Part,Copper,Medium,0.81,5026.44,0.322,A
+PRD0026,SUP0022,Automotive Part 026,Automotive Part,Stainless Steel,Medium,2.58,2808.67,0.288,B
+PRD0027,SUP0001,Packaging Unit 027,Packaging Unit,Stainless Steel,Low,6.54,4583.62,0.082,B
+PRD0028,SUP0101,Mechanical Part 028,Mechanical Part,Copper,Low,2.73,1843.88,0.346,C
+PRD0029,SUP0108,Electrical Component 029,Electrical Component,Composite,Medium,6.25,1645.8,0.271,B
+PRD0030,SUP0031,Automotive Part 030,Automotive Part,Copper,Medium,2.04,2336.76,0.169,C
+PRD0031,SUP0058,Electrical Component 031,Electrical Component,Steel,Medium,2.72,950.62,0.243,A
+PRD0032,SUP0022,Packaging Unit 032,Packaging Unit,ABS Plastic,Low,5.84,279.53,0.25,B
+PRD0033,SUP0053,Packaging Unit 033,Packaging Unit,Composite,Medium,2.77,1784.22,0.06,B
+PRD0034,SUP0123,Plastic Component 034,Plastic Component,Aluminium,Low,5.92,5620.29,0.301,A
+PRD0035,SUP0182,Electrical Component 035,Electrical Component,Aluminium,Low,3.96,4870.88,0.22,B
+PRD0036,SUP0002,Mechanical Part 036,Mechanical Part,Copper,Low,5.96,1014.45,0.039,B
+PRD0037,SUP0032,Mechanical Part 037,Mechanical Part,Aluminium,Medium,2.73,5533.92,0.048,B
+PRD0038,SUP0071,Automotive Part 038,Automotive Part,Aluminium,Medium,7.36,3109.46,0.112,A
+PRD0039,SUP0072,Packaging Unit 039,Packaging Unit,Aluminium,High,4.56,3870.24,0.473,C
+PRD0040,SUP0160,Mechanical Part 040,Mechanical Part,Aluminium,Low,1.93,5465.55,0.093,A
+PRD0041,SUP0015,Mechanical Part 041,Mechanical Part,Stainless Steel,High,8.43,5257.77,0.317,B
+PRD0042,SUP0179,Packaging Unit 042,Packaging Unit,ABS Plastic,High,2.63,3836.2,0.024,B
+PRD0043,SUP0116,Automotive Part 043,Automotive Part,Composite,Low,7.76,6324.7,0.394,B
+PRD0044,SUP0171,Automotive Part 044,Automotive Part,Copper,Low,7.28,5451.96,0.243,A
+PRD0045,SUP0195,Automotive Part 045,Automotive Part,ABS Plastic,High,2.55,5415.61,0.019,C
+PRD0046,SUP0113,Electrical Component 046,Electrical Component,Copper,Low,2.77,1237.08,0.378,A
+PRD0047,SUP0164,Electrical Component 047,Electrical Component,Steel,Medium,3.77,3124.16,0.142,A
+PRD0048,SUP0124,Automotive Part 048,Automotive Part,Composite,High,4.12,3665.44,0.437,C
+PRD0049,SUP0015,Mechanical Part 049,Mechanical Part,Copper,Medium,5.23,3918.79,0.153,B
+PRD0050,SUP0014,Plastic Component 050,Plastic Component,Stainless Steel,Low,6.96,5964.8,0.273,A
+PRD0051,SUP0137,Plastic Component 051,Plastic Component,Copper,Low,3.08,991.91,0.08,C
+PRD0052,SUP0067,Automotive Part 052,Automotive Part,Composite,High,2.36,4737.71,0.454,B
+PRD0053,SUP0092,Mechanical Part 053,Mechanical Part,ABS Plastic,Medium,3.53,2814.72,0.46,C
+PRD0054,SUP0156,Automotive Part 054,Automotive Part,Steel,Medium,5.99,1769.61,0.199,A
+PRD0055,SUP0155,Plastic Component 055,Plastic Component,Composite,Medium,8.2,6244.61,0.087,A
+PRD0056,SUP0009,Packaging Unit 056,Packaging Unit,Steel,Low,4.57,908.26,0.298,C
+PRD0057,SUP0025,Plastic Component 057,Plastic Component,Copper,High,6.49,2417.88,0.375,C
+PRD0058,SUP0107,Automotive Part 058,Automotive Part,Stainless Steel,Low,1.52,6290.62,0.142,C
+PRD0059,SUP0079,Packaging Unit 059,Packaging Unit,Stainless Steel,High,2.62,4418.22,0.474,A
+PRD0060,SUP0033,Mechanical Part 060,Mechanical Part,ABS Plastic,High,7.4,1271.43,0.495,A
+PRD0061,SUP0109,Packaging Unit 061,Packaging Unit,ABS Plastic,Medium,1.21,2357.73,0.035,C
+PRD0062,SUP0174,Mechanical Part 062,Mechanical Part,Steel,High,8.11,4569.87,0.169,C
+PRD0063,SUP0068,Electrical Component 063,Electrical Component,Steel,Low,8.18,4936.54,0.412,B
+PRD0064,SUP0146,Plastic Component 064,Plastic Component,Composite,Low,2.81,3860.99,0.399,A
+PRD0065,SUP0160,Plastic Component 065,Plastic Component,Stainless Steel,High,4.7,2963.05,0.126,C
+PRD0066,SUP0061,Mechanical Part 066,Mechanical Part,Steel,Low,5.71,3170.74,0.412,B
+PRD0067,SUP0038,Plastic Component 067,Plastic Component,ABS Plastic,High,6.56,1815.82,0.034,C
+PRD0068,SUP0178,Plastic Component 068,Plastic Component,Aluminium,High,7.25,5876.96,0.205,C
+PRD0069,SUP0109,Electrical Component 069,Electrical Component,ABS Plastic,Low,4.55,1976.76,0.264,A
+PRD0070,SUP0146,Automotive Part 070,Automotive Part,Composite,Low,6.3,223.87,0.211,C
+PRD0071,SUP0037,Automotive Part 071,Automotive Part,Aluminium,Medium,2.15,3542.23,0.419,A
+PRD0072,SUP0059,Plastic Component 072,Plastic Component,Steel,Medium,4.85,3301.16,0.187,C
+PRD0073,SUP0009,Packaging Unit 073,Packaging Unit,Steel,Medium,2.7,4912.14,0.144,C
+PRD0074,SUP0094,Automotive Part 074,Automotive Part,Composite,Medium,6.49,4067.48,0.143,B
+PRD0075,SUP0144,Automotive Part 075,Automotive Part,Stainless Steel,Low,4.05,5295.69,0.35,A
+PRD0076,SUP0036,Electrical Component 076,Electrical Component,Aluminium,Low,8.19,1915.32,0.388,C
+PRD0077,SUP0057,Automotive Part 077,Automotive Part,Copper,Low,4.2,5840.24,0.02,C
+PRD0078,SUP0141,Packaging Unit 078,Packaging Unit,ABS Plastic,Low,7.84,2171.65,0.261,B
+PRD0079,SUP0023,Plastic Component 079,Plastic Component,Steel,Low,0.73,6277.53,0.412,B
+PRD0080,SUP0054,Packaging Unit 080,Packaging Unit,Steel,Low,5.33,121.22,0.424,A
+PRD0081,SUP0208,Automotive Part 081,Automotive Part,Aluminium,Medium,4.08,2064.97,0.32,A
+PRD0082,SUP0024,Electrical Component 082,Electrical Component,Copper,High,7.64,4504.42,0.076,A
+PRD0083,SUP0191,Packaging Unit 083,Packaging Unit,ABS Plastic,High,2.4,2485.13,0.407,C
+PRD0084,SUP0143,Plastic Component 084,Plastic Component,ABS Plastic,Medium,3.98,2544.07,0.261,C
+PRD0085,SUP0095,Automotive Part 085,Automotive Part,Steel,Medium,1.69,1742.86,0.167,B
+PRD0086,SUP0082,Automotive Part 086,Automotive Part,Aluminium,High,8.27,5849.96,0.013,C
+PRD0087,SUP0082,Mechanical Part 087,Mechanical Part,Steel,Medium,8.28,6468.55,0.181,B
+PRD0088,SUP0146,Mechanical Part 088,Mechanical Part,Stainless Steel,Low,3.92,4996.98,0.07,A
+PRD0089,SUP0132,Plastic Component 089,Plastic Component,Steel,High,4.91,6441.34,0.103,C
+PRD0090,SUP0102,Automotive Part 090,Automotive Part,Aluminium,High,7.64,1055.05,0.324,A
+PRD0091,SUP0041,Electrical Component 091,Electrical Component,Aluminium,Low,4.58,5459.17,0.132,C
+PRD0092,SUP0205,Plastic Component 092,Plastic Component,Aluminium,Medium,7.15,1393.76,0.052,C
+PRD0093,SUP0192,Electrical Component 093,Electrical Component,Steel,High,4.14,4558.17,0.328,B
+PRD0094,SUP0110,Electrical Component 094,Electrical Component,Composite,Low,1.11,2408.17,0.455,C
+PRD0095,SUP0054,Plastic Component 095,Plastic Component,Steel,Medium,8.4,447.95,0.428,C
+PRD0096,SUP0028,Automotive Part 096,Automotive Part,Copper,Low,4.14,3501.91,0.15,B
+PRD0097,SUP0097,Plastic Component 097,Plastic Component,Copper,High,0.72,2441.87,0.229,B
+PRD0098,SUP0016,Mechanical Part 098,Mechanical Part,Stainless Steel,Low,2.48,6274.38,0.267,B
+PRD0099,SUP0113,Electrical Component 099,Electrical Component,ABS Plastic,High,2.82,888.16,0.484,C
+PRD0100,SUP0119,Mechanical Part 100,Mechanical Part,Steel,High,4.78,4942.73,0.037,B
+PRD0101,SUP0064,Packaging Unit 101,Packaging Unit,Copper,Low,7.41,2321.22,0.431,C
+PRD0102,SUP0052,Packaging Unit 102,Packaging Unit,Copper,Low,4.48,1032.73,0.023,A
+PRD0103,SUP0033,Packaging Unit 103,Packaging Unit,ABS Plastic,Medium,2.79,5910.7,0.337,C
+PRD0104,SUP0035,Automotive Part 104,Automotive Part,Stainless Steel,High,4.06,3819.47,0.121,B
+PRD0105,SUP0005,Mechanical Part 105,Mechanical Part,Copper,High,6.12,2839.93,0.346,A
+PRD0106,SUP0106,Automotive Part 106,Automotive Part,Aluminium,High,0.89,930.17,0.212,C
+PRD0107,SUP0194,Mechanical Part 107,Mechanical Part,ABS Plastic,Medium,2.97,3807.33,0.245,A
+PRD0108,SUP0110,Packaging Unit 108,Packaging Unit,Composite,Medium,7.8,5226.77,0.301,B
+PRD0109,SUP0064,Electrical Component 109,Electrical Component,Composite,Low,1.39,431.92,0.29,B
+PRD0110,SUP0081,Plastic Component 110,Plastic Component,Stainless Steel,Medium,6.71,2134.85,0.02,B
+PRD0111,SUP0026,Packaging Unit 111,Packaging Unit,Copper,Low,2.51,1275.24,0.081,B
+PRD0112,SUP0208,Mechanical Part 112,Mechanical Part,Stainless Steel,Medium,5.95,899.31,0.13,C
+PRD0113,SUP0162,Packaging Unit 113,Packaging Unit,Copper,High,1.59,5271.29,0.042,B
+PRD0114,SUP0175,Electrical Component 114,Electrical Component,ABS Plastic,Low,4.46,4620.63,0.191,B
+PRD0115,SUP0151,Packaging Unit 115,Packaging Unit,Aluminium,High,4.1,6281.55,0.286,C
+PRD0116,SUP0009,Plastic Component 116,Plastic Component,ABS Plastic,Low,4.08,887.89,0.099,A
+PRD0117,SUP0115,Electrical Component 117,Electrical Component,Steel,Low,3.28,4146.13,0.385,B
+PRD0118,SUP0033,Electrical Component 118,Electrical Component,Copper,Medium,1.27,3055.51,0.236,C
+PRD0119,SUP0079,Electrical Component 119,Electrical Component,Composite,Low,7.28,4505.13,0.246,A
+PRD0120,SUP0092,Packaging Unit 120,Packaging Unit,Composite,Low,6.78,3574.5,0.488,B
+PRD0121,SUP0206,Packaging Unit 121,Packaging Unit,ABS Plastic,Medium,7.25,2596.14,0.121,B
+PRD0122,SUP0199,Plastic Component 122,Plastic Component,Composite,High,6.96,5266.02,0.457,C
+PRD0123,SUP0009,Plastic Component 123,Plastic Component,Steel,High,7.2,352.53,0.241,A
+PRD0124,SUP0095,Automotive Part 124,Automotive Part,Composite,High,8.3,3413.91,0.286,C
+PRD0125,SUP0162,Automotive Part 125,Automotive Part,ABS Plastic,Medium,6.11,5373.05,0.084,A
+PRD0126,SUP0195,Plastic Component 126,Plastic Component,Steel,High,8.1,5524.23,0.186,C
+PRD0127,SUP0209,Packaging Unit 127,Packaging Unit,ABS Plastic,Medium,8.33,2319.42,0.034,B
+PRD0128,SUP0199,Packaging Unit 128,Packaging Unit,Copper,Low,1.83,4037.53,0.378,B
+PRD0129,SUP0135,Mechanical Part 129,Mechanical Part,Aluminium,Medium,2.4,5141.54,0.159,B
+PRD0130,SUP0039,Electrical Component 130,Electrical Component,Composite,High,1.84,2816.99,0.481,A
+PRD0131,SUP0087,Automotive Part 131,Automotive Part,Composite,Medium,2.1,3909.84,0.192,A
+PRD0132,SUP0006,Mechanical Part 132,Mechanical Part,ABS Plastic,Medium,1.74,5156.03,0.114,C
+PRD0133,SUP0051,Automotive Part 133,Automotive Part,ABS Plastic,Low,2.42,5911.71,0.081,B
+PRD0134,SUP0049,Mechanical Part 134,Mechanical Part,ABS Plastic,Low,7.22,2966.26,0.379,B
+PRD0135,SUP0043,Mechanical Part 135,Mechanical Part,Aluminium,Medium,7.01,4349.79,0.418,C
+PRD0136,SUP0004,Electrical Component 136,Electrical Component,Copper,High,7.42,992.03,0.254,A
+PRD0137,SUP0024,Packaging Unit 137,Packaging Unit,Steel,Medium,7.15,4996.84,0.29,C
+PRD0138,SUP0097,Automotive Part 138,Automotive Part,Copper,Medium,3.94,3256.57,0.071,C
+PRD0139,SUP0088,Automotive Part 139,Automotive Part,Steel,High,5.6,2685.92,0.494,A
+PRD0140,SUP0056,Mechanical Part 140,Mechanical Part,ABS Plastic,High,6.89,5195.99,0.269,C
+PRD0141,SUP0138,Packaging Unit 141,Packaging Unit,Composite,Medium,4.58,200.23,0.141,B
+PRD0142,SUP0108,Electrical Component 142,Electrical Component,Aluminium,Low,6.47,3538.98,0.164,A
+PRD0143,SUP0095,Automotive Part 143,Automotive Part,Copper,Medium,4.44,673.48,0.224,C
+PRD0144,SUP0057,Automotive Part 144,Automotive Part,Aluminium,Low,2.74,2423.25,0.181,C
+PRD0145,SUP0141,Packaging Unit 145,Packaging Unit,Stainless Steel,High,4.26,2369.55,0.178,C
+PRD0146,SUP0045,Electrical Component 146,Electrical Component,Steel,Low,5.31,5011.95,0.471,C
+PRD0147,SUP0113,Mechanical Part 147,Mechanical Part,Composite,Low,4.99,1169.2,0.17,B
+PRD0148,SUP0058,Plastic Component 148,Plastic Component,Steel,High,4.18,5555.01,0.42,C
+PRD0149,SUP0181,Automotive Part 149,Automotive Part,Copper,Medium,3.21,4356.0,0.096,B
+PRD0150,SUP0201,Packaging Unit 150,Packaging Unit,Composite,High,6.56,2374.89,0.397,C

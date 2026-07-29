@@ -1,0 +1,11 @@
+factory_id,factory_name,city,state,region,specialization,employee_count,target_oee,certification
+FAC001,Pune Manufacturing Plant,Pune,Maharashtra,West,Automotive Components,1529,0.838,IATF 16949
+FAC002,Chennai Manufacturing Plant,Chennai,Tamil Nadu,South,Industrial Motors,710,0.917,ISO 9001
+FAC003,Gurugram Manufacturing Plant,Gurugram,Haryana,North,Precision Parts,1772,0.954,IATF 16949
+FAC004,Ahmedabad Manufacturing Plant,Ahmedabad,Gujarat,West,Packaging Equipment,1672,0.883,IATF 16949
+FAC005,Bengaluru Manufacturing Plant,Bengaluru,Karnataka,South,Electronics Assembly,2090,0.946,ISO 9001 + ISO 14001
+FAC006,Jamshedpur Manufacturing Plant,Jamshedpur,Jharkhand,East,Heavy Engineering,1701,0.933,ISO 9001 + ISO 14001
+FAC007,Noida Manufacturing Plant,Noida,Uttar Pradesh,North,Consumer Appliances,1757,0.856,ISO 9001
+FAC008,Kolkata Manufacturing Plant,Kolkata,West Bengal,East,Pumps & Valves,2172,0.837,ISO 9001
+FAC009,Hyderabad Manufacturing Plant,Hyderabad,Telangana,South,Control Systems,2168,0.887,IATF 16949
+FAC010,Indore Manufacturing Plant,Indore,Madhya Pradesh,Central,Metal Fabrication,1143,0.894,ISO 9001

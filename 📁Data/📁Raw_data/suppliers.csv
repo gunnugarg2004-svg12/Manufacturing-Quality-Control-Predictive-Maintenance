@@ -1,0 +1,213 @@
+
+
+supplier_id,supplier_name,region,supplier_category,quality_rating,average_lead_time_days,delivery_reliability,supplier_status
+SUP0001,Industrial Supplier 001,West,Electronic Parts,0.938,33,0.903,Approved
+SUP0002,Industrial Supplier 002,East,Mechanical Parts,0.828,8,0.883,Approved
+SUP0003,Industrial Supplier 003,South,Electronic Parts,0.955,9,0.816,Approved
+SUP0004,Industrial Supplier 004,West,Electronic Parts,0.946,6,0.89,Approved
+SUP0005,Industrial Supplier 005,North,Mechanical Parts,0.851,35,0.834,Approved
+SUP0006,Industrial Supplier 006,Central,Raw Material,0.865,30,0.785,Conditional
+SUP0007,Industrial Supplier 007,South,Electronic Parts,0.988,12,0.935,Approved
+SUP0008,Industrial Supplier 008,West,Mechanical Parts,0.982,20,0.846,Approved
+SUP0009,Industrial Supplier 009,East,Electronic Parts,0.875,17,0.935,Approved
+SUP0010,Industrial Supplier 010,East,Raw Material,0.864,14,0.782,Approved
+SUP0011,Industrial Supplier 011,North,Mechanical Parts,0.922,16,0.814,Approved
+SUP0012,Industrial Supplier 012,South,Electronic Parts,0.876,28,0.852,Approved
+SUP0013,Industrial Supplier 013,South,Packaging,0.931,13,0.888,Approved
+SUP0014,Industrial Supplier 014,North,Electronic Parts,0.873,35,0.859,Approved
+SUP0015,Industrial Supplier 015,Central,Mechanical Parts,0.908,11,0.815,Conditional
+SUP0016,Industrial Supplier 016,South,Raw Material,0.917,32,0.947,Approved
+SUP0017,Industrial Supplier 017,Central,Raw Material,0.974,23,0.814,Approved
+SUP0018,Industrial Supplier 018,East,Mechanical Parts,0.88,3,0.94,Conditional
+SUP0019,Industrial Supplier 019,East,Mechanical Parts,0.868,5,0.944,Approved
+SUP0020,Industrial Supplier 020,North,Mechanical Parts,0.863,18,0.906,Approved
+SUP0021,Industrial Supplier 021,East,Raw Material,0.984,22,0.968,Conditional
+SUP0022,Industrial Supplier 022,West,Mechanical Parts,0.857,14,0.783,Conditional
+SUP0023,Industrial Supplier 023,East,Packaging,0.863,19,0.863,Approved
+SUP0024,Industrial Supplier 024,East,Raw Material,0.904,19,0.788,Conditional
+SUP0025,Industrial Supplier 025,West,Mechanical Parts,0.993,27,0.791,Approved
+SUP0026,Industrial Supplier 026,West,Electronic Parts,0.844,35,0.798,Approved
+SUP0027,Industrial Supplier 027,West,Mechanical Parts,0.862,27,0.938,Conditional
+SUP0028,Industrial Supplier 028,West,Raw Material,0.841,24,0.791,Approved
+SUP0029,Industrial Supplier 029,North,Raw Material,0.835,17,0.824,Approved
+SUP0030,Industrial Supplier 030,Central,Packaging,0.882,22,0.938,Approved
+SUP0031,Industrial Supplier 031,South,Electronic Parts,0.914,30,0.841,Approved
+SUP0032,Industrial Supplier 032,East,Electronic Parts,0.961,28,0.908,Approved
+SUP0033,Industrial Supplier 033,East,Packaging,0.924,35,0.842,Approved
+SUP0034,Industrial Supplier 034,East,Raw Material,0.93,18,0.882,Approved
+SUP0035,Industrial Supplier 035,North,Raw Material,0.964,27,0.812,Approved
+SUP0036,Industrial Supplier 036,South,Electronic Parts,0.919,9,0.845,Approved
+SUP0037,Industrial Supplier 037,West,Electronic Parts,0.932,6,0.795,Conditional
+SUP0038,Industrial Supplier 038,South,Electronic Parts,0.847,27,0.915,Conditional
+SUP0039,Industrial Supplier 039,West,Packaging,0.985,28,0.897,Conditional
+SUP0040,Industrial Supplier 040,West,Raw Material,0.874,6,0.879,Approved
+SUP0041,Industrial Supplier 041,West,Mechanical Parts,0.974,13,0.785,Approved
+SUP0042,Industrial Supplier 042,South,Mechanical Parts,0.937,25,0.847,Approved
+SUP0043,Industrial Supplier 043,West,Packaging,0.904,30,0.916,Approved
+SUP0044,Industrial Supplier 044,North,Raw Material,0.869,19,0.886,Approved
+SUP0045,Industrial Supplier 045,North,Packaging,0.951,17,0.853,Approved
+SUP0046,Industrial Supplier 046,East,Mechanical Parts,0.96,22,0.84,Approved
+SUP0047,Industrial Supplier 047,South,Raw Material,0.855,14,0.901,Approved
+SUP0048,Industrial Supplier 048,West,Electronic Parts,0.829,22,0.959,Approved
+SUP0049,Industrial Supplier 049,West,Raw Material,0.982,13,0.783,Approved
+SUP0050,Industrial Supplier 050,South,Packaging,0.831,16,0.861,Approved
+SUP0051,Industrial Supplier 051,East,Packaging,0.97,5,0.927,Approved
+SUP0052,Industrial Supplier 052,East,Raw Material,0.951,30,0.868,Approved
+SUP0053,Industrial Supplier 053,West,Electronic Parts,0.881,15,0.936,Approved
+SUP0054,Industrial Supplier 054,North,Packaging,0.874,14,0.872,Approved
+SUP0055,Industrial Supplier 055,West,Packaging,0.97,23,0.947,Conditional
+SUP0056,Industrial Supplier 056,East,Packaging,0.837,11,0.914,Approved
+SUP0057,Industrial Supplier 057,South,Mechanical Parts,0.845,10,0.787,Conditional
+SUP0058,Industrial Supplier 058,Central,Electronic Parts,0.988,25,0.798,Conditional
+SUP0059,Industrial Supplier 059,East,Electronic Parts,0.863,23,0.945,Conditional
+SUP0060,Industrial Supplier 060,North,Mechanical Parts,0.984,23,0.842,Approved
+SUP0061,Industrial Supplier 061,Central,Electronic Parts,0.936,12,0.85,Approved
+SUP0062,Industrial Supplier 062,South,Raw Material,0.864,18,0.954,Conditional
+SUP0063,Industrial Supplier 063,West,Packaging,0.942,22,0.938,Conditional
+SUP0064,Industrial Supplier 064,Central,Raw Material,0.938,19,0.815,Approved
+SUP0065,Industrial Supplier 065,North,Raw Material,0.952,8,0.931,Conditional
+SUP0066,Industrial Supplier 066,West,Raw Material,0.89,34,0.983,Approved
+SUP0067,Industrial Supplier 067,West,Mechanical Parts,0.901,22,0.81,Conditional
+SUP0068,Industrial Supplier 068,East,Mechanical Parts,0.859,26,0.988,Conditional
+SUP0069,Industrial Supplier 069,West,Electronic Parts,0.971,14,0.781,Approved
+SUP0070,Industrial Supplier 070,South,Packaging,0.897,23,0.951,Approved
+SUP0071,Industrial Supplier 071,East,Electronic Parts,0.844,17,0.954,Conditional
+SUP0072,Industrial Supplier 072,East,Electronic Parts,0.969,10,0.966,Approved
+SUP0073,Industrial Supplier 073,East,Packaging,0.975,11,0.888,Approved
+SUP0074,Industrial Supplier 074,Central,Mechanical Parts,0.959,13,0.972,Approved
+SUP0075,Industrial Supplier 075,South,Electronic Parts,0.921,33,0.828,Approved
+SUP0076,Industrial Supplier 076,South,Electronic Parts,0.894,3,0.96,Conditional
+SUP0077,Industrial Supplier 077,West,Raw Material,0.826,12,0.908,Approved
+SUP0078,Industrial Supplier 078,East,Electronic Parts,0.872,26,0.791,Approved
+SUP0079,Industrial Supplier 079,Central,Mechanical Parts,0.965,15,0.878,Conditional
+SUP0080,Industrial Supplier 080,South,Packaging,0.97,18,0.904,Approved
+SUP0081,Industrial Supplier 081,West,Raw Material,0.989,5,0.919,Approved
+SUP0082,Industrial Supplier 082,West,Electronic Parts,0.975,21,0.922,Approved
+SUP0083,Industrial Supplier 083,West,Raw Material,0.936,5,0.845,Conditional
+SUP0084,Industrial Supplier 084,North,Packaging,0.901,25,0.807,Conditional
+SUP0085,Industrial Supplier 085,South,Packaging,0.914,18,0.931,Approved
+SUP0086,Industrial Supplier 086,Central,Raw Material,0.946,19,0.85,Approved
+SUP0087,Industrial Supplier 087,South,Mechanical Parts,0.884,35,0.944,Approved
+SUP0088,Industrial Supplier 088,South,Packaging,0.906,18,0.964,Approved
+SUP0089,Industrial Supplier 089,Central,Packaging,0.872,17,0.809,Approved
+SUP0090,Industrial Supplier 090,South,Electronic Parts,0.853,25,0.873,Approved
+SUP0091,Industrial Supplier 091,Central,Packaging,0.884,26,0.957,Approved
+SUP0092,Industrial Supplier 092,South,Mechanical Parts,0.846,23,0.918,Conditional
+SUP0093,Industrial Supplier 093,East,Electronic Parts,0.835,12,0.939,Approved
+SUP0094,Industrial Supplier 094,South,Mechanical Parts,0.986,32,0.889,Approved
+SUP0095,Industrial Supplier 095,West,Electronic Parts,0.874,25,0.943,Approved
+SUP0096,Industrial Supplier 096,East,Raw Material,0.908,14,0.857,Approved
+SUP0097,Industrial Supplier 097,East,Raw Material,0.861,16,0.881,Conditional
+SUP0098,Industrial Supplier 098,Central,Mechanical Parts,0.821,22,0.787,Conditional
+SUP0099,Industrial Supplier 099,West,Mechanical Parts,0.87,6,0.928,Approved
+SUP0100,Industrial Supplier 100,North,Mechanical Parts,0.836,34,0.977,Approved
+SUP0101,Industrial Supplier 101,North,Packaging,0.989,23,0.964,Conditional
+SUP0102,Industrial Supplier 102,West,Mechanical Parts,0.833,9,0.932,Conditional
+SUP0103,Industrial Supplier 103,East,Mechanical Parts,0.937,5,0.951,Conditional
+SUP0104,Industrial Supplier 104,West,Mechanical Parts,0.873,24,0.855,Approved
+SUP0105,Industrial Supplier 105,North,Electronic Parts,0.893,16,0.937,Conditional
+SUP0106,Industrial Supplier 106,Central,Electronic Parts,0.952,30,0.843,Conditional
+SUP0107,Industrial Supplier 107,Central,Mechanical Parts,0.876,31,0.984,Conditional
+SUP0108,Industrial Supplier 108,South,Packaging,0.872,34,0.923,Approved
+SUP0109,Industrial Supplier 109,North,Mechanical Parts,0.873,11,0.835,Approved
+SUP0110,Industrial Supplier 110,Central,Packaging,0.906,27,0.793,Approved
+SUP0111,Industrial Supplier 111,West,Packaging,0.971,14,0.94,Conditional
+SUP0112,Industrial Supplier 112,West,Mechanical Parts,0.881,25,0.795,Approved
+SUP0113,Industrial Supplier 113,East,Electronic Parts,0.994,33,0.877,Approved
+SUP0114,Industrial Supplier 114,East,Raw Material,0.846,29,0.906,Conditional
+SUP0115,Industrial Supplier 115,Central,Mechanical Parts,0.942,17,0.853,Approved
+SUP0116,Industrial Supplier 116,Central,Packaging,0.957,13,0.973,Approved
+SUP0117,Industrial Supplier 117,East,Mechanical Parts,0.936,15,0.957,Approved
+SUP0118,Industrial Supplier 118,East,Mechanical Parts,0.874,10,0.807,Conditional
+SUP0119,Industrial Supplier 119,South,Electronic Parts,0.968,5,0.817,Conditional
+SUP0120,Industrial Supplier 120,West,Packaging,0.993,34,0.92,Approved
+SUP0121,Industrial Supplier 121,East,Packaging,0.88,26,0.93,Conditional
+SUP0122,Industrial Supplier 122,West,Electronic Parts,0.85,25,0.871,Approved
+SUP0123,Industrial Supplier 123,North,Electronic Parts,0.911,34,0.961,Approved
+SUP0124,Industrial Supplier 124,Central,Electronic Parts,0.957,12,0.958,Conditional
+SUP0125,Industrial Supplier 125,West,Packaging,0.946,23,0.802,Conditional
+SUP0126,Industrial Supplier 126,West,Mechanical Parts,0.898,26,0.926,Conditional
+SUP0127,Industrial Supplier 127,East,Electronic Parts,0.952,6,0.798,Conditional
+SUP0128,Industrial Supplier 128,North,Raw Material,0.904,8,0.932,Conditional
+SUP0129,Industrial Supplier 129,Central,Electronic Parts,0.994,14,0.878,Approved
+SUP0130,Industrial Supplier 130,North,Electronic Parts,0.93,18,0.8,Approved
+SUP0131,Industrial Supplier 131,Central,Packaging,0.886,32,0.803,Approved
+SUP0132,Industrial Supplier 132,North,Packaging,0.933,28,0.804,Approved
+SUP0133,Industrial Supplier 133,East,Mechanical Parts,0.852,15,0.832,Approved
+SUP0134,Industrial Supplier 134,South,Raw Material,0.834,14,0.924,Approved
+SUP0135,Industrial Supplier 135,East,Packaging,0.825,11,0.832,Approved
+SUP0136,Industrial Supplier 136,North,Packaging,0.911,31,0.951,Approved
+SUP0137,Industrial Supplier 137,South,Mechanical Parts,0.823,33,0.818,Approved
+SUP0138,Industrial Supplier 138,North,Electronic Parts,0.845,34,0.824,Approved
+SUP0139,Industrial Supplier 139,East,Raw Material,0.924,4,0.796,Approved
+SUP0140,Industrial Supplier 140,East,Packaging,0.977,25,0.883,Conditional
+SUP0141,Industrial Supplier 141,West,Raw Material,0.909,26,0.836,Conditional
+SUP0142,Industrial Supplier 142,East,Packaging,0.887,31,0.888,Approved
+SUP0143,Industrial Supplier 143,North,Raw Material,0.948,19,0.803,Approved
+SUP0144,Industrial Supplier 144,South,Mechanical Parts,0.874,32,0.973,Approved
+SUP0145,Industrial Supplier 145,North,Packaging,0.932,10,0.971,Approved
+SUP0146,Industrial Supplier 146,West,Electronic Parts,0.825,32,0.988,Approved
+SUP0147,Industrial Supplier 147,South,Packaging,0.888,12,0.968,Conditional
+SUP0148,Industrial Supplier 148,West,Raw Material,0.89,19,0.849,Conditional
+SUP0149,Industrial Supplier 149,South,Raw Material,0.917,33,0.816,Approved
+SUP0150,Industrial Supplier 150,West,Raw Material,0.905,7,0.873,Approved
+SUP0151,Industrial Supplier 151,West,Electronic Parts,0.921,34,0.812,Approved
+SUP0152,Industrial Supplier 152,Central,Mechanical Parts,0.965,33,0.83,Approved
+SUP0153,Industrial Supplier 153,South,Raw Material,0.824,13,0.88,Conditional
+SUP0154,Industrial Supplier 154,West,Mechanical Parts,0.931,14,0.809,Approved
+SUP0155,Industrial Supplier 155,North,Packaging,0.972,15,0.922,Conditional
+SUP0156,Industrial Supplier 156,West,Electronic Parts,0.829,15,0.854,Conditional
+SUP0157,Industrial Supplier 157,North,Raw Material,0.953,11,0.783,Conditional
+SUP0158,Industrial Supplier 158,North,Raw Material,0.964,12,0.858,Approved
+SUP0159,Industrial Supplier 159,Central,Electronic Parts,0.95,18,0.923,Conditional
+SUP0160,Industrial Supplier 160,South,Raw Material,0.821,35,0.861,Approved
+SUP0161,Industrial Supplier 161,South,Mechanical Parts,0.99,12,0.981,Approved
+SUP0162,Industrial Supplier 162,Central,Raw Material,0.949,18,0.802,Approved
+SUP0163,Industrial Supplier 163,West,Electronic Parts,0.922,20,0.978,Approved
+SUP0164,Industrial Supplier 164,West,Packaging,0.868,5,0.863,Approved
+SUP0165,Industrial Supplier 165,East,Raw Material,0.902,26,0.818,Approved
+SUP0166,Industrial Supplier 166,North,Raw Material,0.837,28,0.837,Approved
+SUP0167,Industrial Supplier 167,North,Raw Material,0.903,27,0.963,Approved
+SUP0168,Industrial Supplier 168,West,Electronic Parts,0.882,9,0.811,Conditional
+SUP0169,Industrial Supplier 169,South,Electronic Parts,0.926,29,0.849,Conditional
+SUP0170,Industrial Supplier 170,Central,Raw Material,0.932,25,0.808,Approved
+SUP0171,Industrial Supplier 171,Central,Mechanical Parts,0.898,33,0.972,Approved
+SUP0172,Industrial Supplier 172,South,Mechanical Parts,0.83,13,0.788,Approved
+SUP0173,Industrial Supplier 173,North,Raw Material,0.97,32,0.803,Conditional
+SUP0174,Industrial Supplier 174,South,Packaging,0.833,25,0.934,Approved
+SUP0175,Industrial Supplier 175,East,Mechanical Parts,0.898,15,0.957,Approved
+SUP0176,Industrial Supplier 176,Central,Electronic Parts,0.836,3,0.891,Approved
+SUP0177,Industrial Supplier 177,Central,Packaging,0.951,11,0.829,Approved
+SUP0178,Industrial Supplier 178,East,Raw Material,0.826,20,0.989,Approved
+SUP0179,Industrial Supplier 179,North,Electronic Parts,0.915,23,0.903,Conditional
+SUP0180,Industrial Supplier 180,Central,Mechanical Parts,0.925,20,0.79,Conditional
+SUP0181,Industrial Supplier 181,Central,Packaging,0.851,17,0.934,Approved
+SUP0182,Industrial Supplier 182,West,Raw Material,0.9,17,0.841,Approved
+SUP0183,Industrial Supplier 183,South,Packaging,0.889,32,0.919,Conditional
+SUP0184,Industrial Supplier 184,East,Packaging,0.823,25,0.907,Approved
+SUP0185,Industrial Supplier 185,Central,Mechanical Parts,0.899,35,0.857,Conditional
+SUP0186,Industrial Supplier 186,East,Electronic Parts,0.873,10,0.928,Conditional
+SUP0187,Industrial Supplier 187,South,Packaging,0.899,7,0.966,Approved
+SUP0188,Industrial Supplier 188,Central,Electronic Parts,0.988,5,0.818,Approved
+SUP0189,Industrial Supplier 189,North,Packaging,0.824,34,0.806,Approved
+SUP0190,Industrial Supplier 190,West,Packaging,0.864,19,0.877,Approved
+SUP0191,Industrial Supplier 191,West,Raw Material,0.985,21,0.936,Conditional
+SUP0192,Industrial Supplier 192,North,Electronic Parts,0.982,19,0.914,Approved
+SUP0193,Industrial Supplier 193,East,Raw Material,0.875,11,0.884,Approved
+SUP0194,Industrial Supplier 194,Central,Mechanical Parts,0.903,17,0.986,Approved
+SUP0195,Industrial Supplier 195,West,Packaging,0.956,27,0.875,Conditional
+SUP0196,Industrial Supplier 196,East,Raw Material,0.885,16,0.948,Conditional
+SUP0197,Industrial Supplier 197,West,Raw Material,0.935,25,0.929,Conditional
+SUP0198,Industrial Supplier 198,Central,Mechanical Parts,0.824,35,0.98,Conditional
+SUP0199,Industrial Supplier 199,Central,Mechanical Parts,0.909,10,0.802,Conditional
+SUP0200,Industrial Supplier 200,South,Mechanical Parts,0.892,25,0.817,Approved
+SUP0201,Industrial Supplier 201,North,Electronic Parts,0.902,5,0.834,Approved
+SUP0202,Industrial Supplier 202,East,Mechanical Parts,0.939,19,0.834,Approved
+SUP0203,Industrial Supplier 203,East,Mechanical Parts,0.872,25,0.781,Conditional
+SUP0204,Industrial Supplier 204,North,Electronic Parts,0.991,6,0.832,Conditional
+SUP0205,Industrial Supplier 205,South,Electronic Parts,0.963,13,0.97,Approved
+SUP0206,Industrial Supplier 206,West,Mechanical Parts,0.946,28,0.928,Approved
+SUP0207,Industrial Supplier 207,North,Raw Material,0.925,18,0.875,Approved
+SUP0208,Industrial Supplier 208,West,Raw Material,0.857,25,0.813,Approved
+SUP0209,Industrial Supplier 209,East,Mechanical Parts,0.882,27,0.913,Conditional
+SUP0210,Industrial Supplier 210,West,Raw Material,0.838,24,0.915,Approved
