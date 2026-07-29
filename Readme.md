@@ -1,9 +1,7 @@
-<h1 align="center">
-🏭 Manufacturing Quality Control & Predictive Maintenance
-</h1>
+<h1 align="center">🏭 Manufacturing Quality Control & Predictive Maintenance</h1>
 
 <p align="center">
-End-to-End Manufacturing Analytics • Machine Learning • Predictive Maintenance
+An End-to-End Manufacturing Analytics, Machine Learning & Predictive Maintenance Solution
 </p>
 
 <p align="center">
@@ -16,13 +14,14 @@ End-to-End Manufacturing Analytics • Machine Learning • Predictive Maintenan
 
 ---
 
-## 📌 Project Overview
+# 📌 Project Overview
 
-The **Manufacturing Quality Control & Predictive Maintenance** project is an end-to-end manufacturing analytics solution that combines **Quality Control Analysis** and **Machine Learning-based Predictive Maintenance**.
+The **Manufacturing Quality Control & Predictive Maintenance** project is an end-to-end manufacturing analytics solution that combines **Quality Control Analysis** with **Machine Learning-based Predictive Maintenance**.
 
-The project analyzes production quality, inspection results, machine performance, and sensor readings while predicting whether a machine is likely to fail within the next **7 days** using a Random Forest Classifier.
+The project analyzes production quality, inspection results, machine performance, supplier performance, and sensor readings while predicting whether a machine is likely to fail within the next **7 days** using a **Random Forest Classifier**.
 
-It helps manufacturing companies improve product quality, reduce unexpected downtime, optimize maintenance schedules, and make data-driven operational decisions.
+This solution helps manufacturing companies improve product quality, reduce unexpected machine failures, optimize maintenance schedules, and make data-driven operational decisions.
+
 ---
 
 # 🎯 Business Problem
@@ -39,9 +38,32 @@ This project enables maintenance teams to identify high-risk machines early usin
 
 ---
 
-## 🚀 Features
+# 🚀 Project Workflow
 
-### 📊 Quality Control Analytics
+```text
+Raw Manufacturing Data
+          │
+          ▼
+Data Cleaning & Preprocessing
+          │
+          ▼
+Exploratory Data Analysis
+          │
+          ▼
+Machine Learning Model
+          │
+          ▼
+Failure Prediction
+          │
+          ▼
+Interactive Streamlit Dashboard
+```
+
+---
+
+# 🚀 Features
+
+## 📊 Quality Control Analytics
 
 - Production Analysis
 - Quality Inspection Analysis
@@ -49,13 +71,14 @@ This project enables maintenance teams to identify high-risk machines early usin
 - Supplier Performance Analysis
 - Sensor Data Analysis
 
-### 🤖 Predictive Maintenance
+## 🤖 Predictive Maintenance
 
 - Random Forest Classifier
-- Failure Prediction
+- Machine Failure Prediction
 - Failure Probability
 - Maintenance Recommendation
-- Prediction Report Download
+- Prediction Report Download (PDF & CSV)
+
 ---
 
 # 📊 Input Features
@@ -74,92 +97,83 @@ The prediction model uses the following machine sensor readings:
 
 ---
 
+# 🧠 Machine Learning Model
+
+**Algorithm Used**
+
+- Random Forest Classifier
+
+The trained model predicts whether a machine is likely to fail within the next **7 days** based on sensor readings.
+
+---
+
 # 📊 Model Performance Comparison
 
-The project evaluates multiple machine learning algorithms and selects the best-performing model based on classification metrics.
-
 <p align="center">
-  <img src="📁Images/Performance Comparision.png" width="900" alt="Model Performance Comparison">
+  <img src="Performance Comparision.png" width="900" alt="Model Performance Comparison">
 </p>
 
-### Performance Summary
-
 | Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
-|-------|----------|-----------|--------|----------|---------|
+|--------|----------|-----------|---------|----------|----------|
 | Logistic Regression | 99.1% | 95.7% | 71.1% | 81.6% | 96.9% |
 | Decision Tree | 98.8% | 78.0% | 77.2% | 77.6% | 88.3% |
 | **Random Forest** ✅ | **99.3%** | **97.9%** | **76.7%** | **86.0%** | **96.7%** |
 
 ### 🏆 Final Model Selection
 
-After evaluating multiple algorithms, the **Random Forest Classifier** was selected because it achieved the best overall performance, offering the highest Accuracy, Precision, and F1-Score while maintaining excellent ROC-AUC. This makes it the most reliable model for predicting machine failures within the next 7 days.
-
----
-
-# 🧠 Machine Learning Model
-
-- Random Forest Classifier
-
-The model predicts whether a machine is likely to fail within the next **7 days**.
+After evaluating multiple machine learning algorithms, the **Random Forest Classifier** was selected because it achieved the best overall performance across Accuracy, Precision, F1-Score, and ROC-AUC, making it the most reliable model for predictive maintenance.
 
 ---
 
 # 🖥 Dashboard Preview
 
-## Home Screen
+## 🏠 Home Page
 
-![alt text](📁Images/home.png)
-
-```
-
-```
+<p align="center">
+  <img src="Images/home.png" width="900">
+</p>
 
 ---
 
-## Prediction Result
+## 📈 Prediction Result
 
-![alt text](📁Images/prediction_dashboard.png)
-
-```
-
-```
+<p align="center">
+  <img src="Images/prediction_dashboard.png" width="900">
+</p>
 
 ---
 
-## Input Summary 
+## 📋 Input Summary
 
-![alt text](📁Images/input_summary.png)
-
-```
-
-```
+<p align="center">
+  <img src="Images/input_summary.png" width="900">
+</p>
 
 ---
 
-## Prediction Details
+## 📄 Prediction Details
 
-![alt text](📁Images/prediction_details.png)
-
-```
-
-```
+<p align="center">
+  <img src="Images/prediction_details.png" width="900">
+</p>
 
 ---
 
 # 📂 Project Structure
 
-```
+```text
 Manufacturing-Quality-Control-Predictive-Maintenance/
 │
 ├── Data/
-│   ├── Raw_data/
+│   ├── Raw_Data/
 │   └── Cleaned_Data/
 │
 ├── Images/
 │   ├── home.png
 │   ├── prediction_dashboard.png
 │   ├── input_summary.png
-│   └── prediction_details.png
+│   ├── prediction_details.png
+│   └── model_performance_comparison.png
 │
 ├── Models/
 │   ├── random_forest.pkl
@@ -179,25 +193,25 @@ Manufacturing-Quality-Control-Predictive-Maintenance/
 ├── app.py
 ├── README.md
 └── requirements.txt
-
 ```
+
 ---
 
-# ⚙ Installation
+# ⚙️ Installation
 
 Clone the repository
 
 ```bash
-git clone https://github.com/gunnugarg2004-svg12/manufacturing-predictive-maintenance.git
+git clone https://github.com/gunnugarg2004-svg12/Manufacturing-Quality-Control-Predictive-Maintenance.git
 ```
 
 Move into the project directory
 
 ```bash
-cd manufacturing-predictive-maintenance
+cd Manufacturing-Quality-Control-Predictive-Maintenance
 ```
 
-Install the required packages
+Install dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -215,10 +229,40 @@ streamlit run app.py
 
 - Python
 - Pandas
+- NumPy
+- Matplotlib
+- Plotly
 - Scikit-learn
 - Streamlit
-- Plotly
 - Joblib
+- Git & GitHub
+
+---
+
+# 🎯 Key Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Data Visualization
+- Machine Learning
+- Predictive Maintenance
+- Classification Modeling
+- Streamlit Application Development
+- Business Analytics
+
+---
+
+# 💼 Business Value
+
+This project helps manufacturing organizations:
+
+- Reduce unexpected machine failures
+- Improve maintenance planning
+- Increase production efficiency
+- Lower maintenance costs
+- Improve equipment reliability
+- Enable data-driven operational decisions
 
 ---
 
@@ -232,36 +276,26 @@ streamlit run app.py
 
 ---
 
-# 👨‍💻 Developed By
-
-**Annu Garg**
-
-Aspiring Data Analyst | Machine Learning Enthusiast
-
-GitHub: https://github.com/gunnugarg2004-svg12
-
-LinkedIn: https://www.linkedin.com/in/annu-garg-0432a7402/
-
----
-
-# ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
----
-
 # 📈 Project Outcomes
-
-This project demonstrates the practical implementation of **Business Analytics**, **Machine Learning**, and **Streamlit** in a real-world manufacturing environment.
-
-### Key Outcomes
 
 - Improved manufacturing quality monitoring
 - Early prediction of machine failures
 - Reduced unexpected production downtime
 - Data-driven maintenance planning
-- Interactive web application for real-time predictions
-- Business-focused insights for manufacturing operations
+- Interactive Streamlit web application
+- Business-focused manufacturing insights
+
+---
+
+# 👨‍💻 Developed By
+
+## Annu Garg
+
+**Aspiring Data Analyst | Machine Learning Enthusiast**
+
+🔗 GitHub: https://github.com/gunnugarg2004-svg12
+
+💼 LinkedIn: https://www.linkedin.com/in/annu-garg-0432a7402/
 
 ---
 
@@ -269,5 +303,12 @@ This project demonstrates the practical implementation of **Business Analytics**
 
 This project is licensed under the **MIT License**.
 
-Feel free to use, modify, and share this project for learning and educational purposes.
+See the [LICENSE](LICENSE) file for more details.
+
 ---
+
+# ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+Thank you for visiting this repository!
