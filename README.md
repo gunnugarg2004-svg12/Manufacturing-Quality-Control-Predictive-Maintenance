@@ -26,7 +26,7 @@ This solution helps manufacturing companies improve product quality, reduce unex
 
 ## 🌐 Live Demo
 
-🚀 **Streamlit App:** https://manufacturing-quality-control-predictive-maintenance-rrtdrmyev.streamlit.app/
+🚀 **🌐 Live Demo:** https://manufacturing-quality-control-predictive.onrender.com/
 ---
 
 # 🎯 Business Problem
