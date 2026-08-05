@@ -33,7 +33,11 @@ button[title="Decrement"]{
 # Load Model
 # =====================================================
 
-model = joblib.load("Models/random_forest.pkl")
+@st.cache_resource
+def load_model():
+    return joblib.load("Models/random_forest.pkl")
+
+model = load_model()
 
 # =====================================================
 # Sidebar
@@ -251,30 +255,30 @@ if st.button("🔍 Predict Machine Failure", use_container_width=True):
     # -----------------------------
     # Probability Chart
     # -----------------------------
-    import plotly.express as px
+    # import plotly.express as px
 
-    chart = pd.DataFrame({
-        "Prediction": ["No Failure", "Failure"],
-        "Probability": [
-            probabilities[0]*100,
-            probabilities[1]*100
-        ]
-    })
+    # chart = pd.DataFrame({
+    #     "Prediction": ["No Failure", "Failure"],
+    #     "Probability": [
+    #         probabilities[0]*100,
+    #         probabilities[1]*100
+    #     ]
+    # })
 
-    fig = px.bar(
-        chart,
-        x="Prediction",
-        y="Probability",
-        text="Probability",
-        title="Prediction Probability"
-    )
+    # fig = px.bar(
+    #     chart,
+    #     x="Prediction",
+    #     y="Probability",
+    #     text="Probability",
+    #     title="Prediction Probability"
+    # )
 
-    fig.update_traces(
-        texttemplate="%{text:.2f}%",
-        textposition="outside"
-    )
+    # fig.update_traces(
+    #     texttemplate="%{text:.2f}%",
+    #     textposition="outside"
+    # )
 
-    st.plotly_chart(fig, use_container_width=True)
+    # st.plotly_chart(fig, use_container_width=True)
 
     # -----------------------------
     # Sensor Summary
